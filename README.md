@@ -7,5 +7,5 @@ I am a full stack developer 👨‍💻 passionate about web and mobile technolo
 - ⚡ Languages: C#, JavaScript, PowerShell
 - 💥 Stack Overflow contributor for 7 years: https://stackoverflow.com/u/2419531
 - 🐦 I am on Twitter: http://twitter.com/saravanaj1
-- 💬 I blog occasionally at https://saravanaj.github.io
+- 📫 I blog occasionally at https://saravanaj.github.io
 
