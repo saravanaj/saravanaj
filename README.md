@@ -5,7 +5,7 @@ I am a full stack developer 👨‍💻 passionate about web and mobile technolo
 - 🔭 Currently working on .NET Core, NodeJS, Angular and AWS
 - 🌱 Learning Go, Docker and architecting microservices
 - ⚡ Languages: C#, JavaScript, PowerShell
-- 💥 Stack Overflow contributor for 7 years: https://stackoverflow.com/u/2419531
-- 🐦 I am on Twitter: http://twitter.com/saravanaj1
-- 📫 I blog occasionally at https://saravanaj.github.io
+- 💥 Stack Overflow contributor for 7 years: [stackoverflow.com/u/2419531](https://stackoverflow.com/u/2419531)
+- 🐦 I am on Twitter: [twitter.com/saravanaj1](https://twitter.com/saravanaj1)
+- 📜 I blog occasionally at [saravanaj.github.io](https://saravanaj.github.io)
 
