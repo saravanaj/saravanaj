@@ -1,4 +1,4 @@
-### Hi there :wave:, I am Saravana!
+### Hi there :wave:
 
 I am a full stack developer 👨‍💻 passionate about web and mobile technologies. 
 
