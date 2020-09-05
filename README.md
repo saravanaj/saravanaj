@@ -9,3 +9,4 @@ I am a full stack developer 👨‍💻 passionate about web and mobile technolo
 - 🐦 I am on Twitter: [twitter.com/saravanaj1](https://twitter.com/saravanaj1)
 - 📜 I blog occasionally at [saravanaj.github.io](https://saravanaj.github.io)
 
+![Saravana's GitHub stats](https://github-readme-stats.vercel.app/api?username=saravanaj&show_icons=true)
