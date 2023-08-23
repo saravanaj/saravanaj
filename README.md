@@ -1,6 +1,6 @@
 ### Hi there :wave:
 
-I am a full-stack, polyglot developer passionate about web, mobile and cloud technologies.. 
+I am a full-stack, polyglot developer passionate about web, mobile and cloud technologies.
 
 - 🔭 Currently working on .NET Core, Node.js, Python, Angular and AWS
 - 🌱 Learning Go, Docker, Kubernetes and architecting microservices
